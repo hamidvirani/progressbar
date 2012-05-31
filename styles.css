@@ -6,33 +6,32 @@
 }
 
 .full {
-    //width: 220px;
     height: 10px;
-    //border: solid 2px green;
+	background-color : #888;
 }
 
 .played {
     height: 10px;
     width: 0px;
-    background-color: blue;
+    background-color: red;
     
 }
 
 .buffered {
     height: 10px;
     width: 0px;
-    background-color: gray;
+    background-color: #AAA;
    
 }
 
 .handle {
     position: relative;
-    height: 12px;
-    width: 8px;
+    height: 10px;
+    width: 10px;
     left: 0px;
     bottom: 1px;
     border: solid 1px black;
-    background-color: gray;
+    background-color: #DDD;
     -moz-border-radius: 10px;
      border-radius: 10px;
 }
