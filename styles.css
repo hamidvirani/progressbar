@@ -3,24 +3,25 @@
     border : 1px solid black;
     margin: 10px;
     width: 500px;    
+	background-color: #999;
 }
 
 .full {
     height: 10px;
-	background-color : #888;
+	background-color : #000;
 }
 
 .played {
     height: 10px;
     width: 0px;
-    background-color: red;
+    background-color: orange;
     
 }
 
 .buffered {
     height: 10px;
     width: 0px;
-    background-color: #AAA;
+    background-color: #DDD;
    
 }
 
